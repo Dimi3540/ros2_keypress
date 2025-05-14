@@ -1,0 +1,3 @@
+[console_scripts]
+key_listener = key_comm.key_listener:main
+key_publisher = key_comm.key_publisher:main

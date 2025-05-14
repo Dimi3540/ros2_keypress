@@ -1,0 +1,135 @@
+[0.000000] (-) TimerEvent: {}
+[0.001719] (key_comm) JobQueued: {'identifier': 'key_comm', 'dependencies': OrderedDict()}
+[0.001858] (key_comm) JobStarted: {'identifier': 'key_comm'}
+[0.099420] (-) TimerEvent: {}
+[0.199810] (-) TimerEvent: {}
+[0.304469] (-) TimerEvent: {}
+[0.406444] (-) TimerEvent: {}
+[0.507472] (-) TimerEvent: {}
+[0.611460] (-) TimerEvent: {}
+[0.712080] (-) TimerEvent: {}
+[0.812636] (-) TimerEvent: {}
+[0.916089] (-) TimerEvent: {}
+[1.018593] (-) TimerEvent: {}
+[1.119054] (-) TimerEvent: {}
+[1.219596] (-) TimerEvent: {}
+[1.320133] (-) TimerEvent: {}
+[1.420777] (-) TimerEvent: {}
+[1.521397] (-) TimerEvent: {}
+[1.621999] (-) TimerEvent: {}
+[1.723658] (-) TimerEvent: {}
+[1.824340] (-) TimerEvent: {}
+[1.927846] (-) TimerEvent: {}
+[2.028510] (-) TimerEvent: {}
+[2.129453] (-) TimerEvent: {}
+[2.230110] (-) TimerEvent: {}
+[2.331079] (-) TimerEvent: {}
+[2.431819] (-) TimerEvent: {}
+[2.532468] (-) TimerEvent: {}
+[2.633455] (-) TimerEvent: {}
+[2.734218] (-) TimerEvent: {}
+[2.834851] (-) TimerEvent: {}
+[2.935714] (-) TimerEvent: {}
+[3.036521] (-) TimerEvent: {}
+[3.136982] (-) TimerEvent: {}
+[3.237605] (-) TimerEvent: {}
+[3.338275] (-) TimerEvent: {}
+[3.438983] (-) TimerEvent: {}
+[3.539785] (-) TimerEvent: {}
+[3.640464] (-) TimerEvent: {}
+[3.741068] (-) TimerEvent: {}
+[3.842026] (-) TimerEvent: {}
+[3.943025] (-) TimerEvent: {}
+[4.044005] (-) TimerEvent: {}
+[4.144648] (-) TimerEvent: {}
+[4.245247] (-) TimerEvent: {}
+[4.345802] (-) TimerEvent: {}
+[4.446685] (-) TimerEvent: {}
+[4.547496] (-) TimerEvent: {}
+[4.648111] (-) TimerEvent: {}
+[4.749206] (-) TimerEvent: {}
+[4.849871] (-) TimerEvent: {}
+[4.950460] (-) TimerEvent: {}
+[5.051069] (-) TimerEvent: {}
+[5.152019] (-) TimerEvent: {}
+[5.253025] (-) TimerEvent: {}
+[5.353738] (-) TimerEvent: {}
+[5.454406] (-) TimerEvent: {}
+[5.555101] (-) TimerEvent: {}
+[5.656018] (-) TimerEvent: {}
+[5.756678] (-) TimerEvent: {}
+[5.857608] (-) TimerEvent: {}
+[5.958717] (-) TimerEvent: {}
+[6.059441] (-) TimerEvent: {}
+[6.160017] (-) TimerEvent: {}
+[6.260509] (-) TimerEvent: {}
+[6.361431] (-) TimerEvent: {}
+[6.462122] (-) TimerEvent: {}
+[6.562747] (-) TimerEvent: {}
+[6.663378] (-) TimerEvent: {}
+[6.763950] (-) TimerEvent: {}
+[6.864511] (-) TimerEvent: {}
+[6.965051] (-) TimerEvent: {}
+[7.065611] (-) TimerEvent: {}
+[7.166722] (-) TimerEvent: {}
+[7.267668] (-) TimerEvent: {}
+[7.368293] (-) TimerEvent: {}
+[7.468976] (-) TimerEvent: {}
+[7.538150] (key_comm) Command: {'cmd': ['/usr/bin/python3', '-W', 'ignore:setup.py install is deprecated', '-W', 'ignore:easy_install command is deprecated', 'setup.py', 'egg_info', '--egg-base', '../../build/key_comm', 'build', '--build-base', '/home/daniel/ros2_ws_v2/src/ros2_keypress/build/key_comm/build', 'install', '--record', '/home/daniel/ros2_ws_v2/src/ros2_keypress/build/key_comm/install.log', '--single-version-externally-managed', 'install_data'], 'cwd': '/home/daniel/ros2_ws_v2/src/ros2_keypress/src/key_comm', 'env': {'LESSOPEN': '| /usr/bin/lesspipe %s', 'LANGUAGE': 'es:en', 'USER': 'daniel', 'LC_TIME': 'en_US.UTF-8', 'GZ_CONFIG_PATH': '/opt/ros/jazzy/opt/gz_sim_vendor/share/gz:/opt/ros/jazzy/opt/sdformat_vendor/share/gz:/opt/ros/jazzy/opt/gz_gui_vendor/share/gz:/opt/ros/jazzy/opt/gz_transport_vendor/share/gz:/opt/ros/jazzy/opt/gz_rendering_vendor/share/gz:/opt/ros/jazzy/opt/gz_plugin_vendor/share/gz:/opt/ros/jazzy/opt/gz_fuel_tools_vendor/share/gz:/opt/ros/jazzy/opt/gz_msgs_vendor/share/gz:/opt/ros/jazzy/opt/gz_common_vendor/share/gz', 'XDG_SESSION_TYPE': 'wayland', 'SHLVL': '1', 'LD_LIBRARY_PATH': '/opt/ros/jazzy/opt/gz_sim_vendor/lib:/opt/ros/jazzy/opt/gz_sensors_vendor/lib:/opt/ros/jazzy/opt/gz_physics_vendor/lib:/opt/ros/jazzy/opt/sdformat_vendor/lib:/opt/ros/jazzy/opt/rviz_ogre_vendor/lib:/opt/ros/jazzy/lib/x86_64-linux-gnu:/opt/ros/jazzy/opt/gz_gui_vendor/lib:/opt/ros/jazzy/opt/gz_transport_vendor/lib:/opt/ros/jazzy/opt/gz_rendering_vendor/lib:/opt/ros/jazzy/opt/gz_plugin_vendor/lib:/opt/ros/jazzy/opt/gz_fuel_tools_vendor/lib:/opt/ros/jazzy/opt/gz_msgs_vendor/lib:/opt/ros/jazzy/opt/gz_common_vendor/lib:/opt/ros/jazzy/opt/gz_math_vendor/lib:/opt/ros/jazzy/opt/gz_utils_vendor/lib:/opt/ros/jazzy/opt/gz_tools_vendor/lib:/opt/ros/jazzy/opt/gz_ogre_next_vendor/lib:/opt/ros/jazzy/opt/gz_dartsim_vendor/lib:/opt/ros/jazzy/opt/gz_cmake_vendor/lib:/opt/ros/jazzy/lib', 'HOME': '/home/daniel', 'OLDPWD': '/home/daniel/ros2_ws_v2/src/ros2_keypress/src', 'DESKTOP_SESSION': 'ubuntu', 'ROS_PYTHON_VERSION': '3', 'GNOME_SHELL_SESSION_MODE': 'ubuntu', 'GTK_MODULES': 'gail:atk-bridge', 'LC_MONETARY': 'en_US.UTF-8', 'SYSTEMD_EXEC_PID': '2907', 'GSM_SKIP_SSH_AGENT_WORKAROUND': 'true', 'DBUS_SESSION_BUS_ADDRESS': 'unix:path=/run/user/1000/bus', 'COLORTERM': 'truecolor', 'QSYS_ROOTDIR': '/home/daniel/intelFPGA_lite/23.1std/quartus/sopc_builder/bin', 'GNOME_KEYRING_CONTROL': '/run/user/1000/keyring', 'DEBUGINFOD_URLS': 'https://debuginfod.ubuntu.com', 'IM_CONFIG_PHASE': '1', 'WAYLAND_DISPLAY': 'wayland-0', 'ROS_DISTRO': 'jazzy', 'LOGNAME': 'daniel', '_': '/usr/bin/colcon', 'ROS_VERSION': '2', 'MEMORY_PRESSURE_WATCH': '/sys/fs/cgroup/user.slice/user-1000.slice/user@1000.service/session.slice/org.gnome.SettingsDaemon.MediaKeys.service/memory.pressure', 'XDG_SESSION_CLASS': 'user', 'USERNAME': 'daniel', 'TERM': 'xterm-256color', 'GNOME_DESKTOP_SESSION_ID': 'this-is-deprecated', 'PATH': '/opt/ros/jazzy/opt/gz_msgs_vendor/bin:/opt/ros/jazzy/opt/gz_tools_vendor/bin:/opt/ros/jazzy/opt/gz_ogre_next_vendor/bin:/opt/ros/jazzy/bin:/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin:/usr/games:/usr/local/games:/snap/bin:/snap/bin', 'SESSION_MANAGER': 'local/daniel-HP-255-G7-Notebook-PC:@/tmp/.ICE-unix/2729,unix/daniel-HP-255-G7-Notebook-PC:/tmp/.ICE-unix/2729', 'PAPERSIZE': 'letter', 'XDG_MENU_PREFIX': 'gnome-', 'LC_ADDRESS': 'en_US.UTF-8', 'GNOME_TERMINAL_SCREEN': '/org/gnome/Terminal/screen/f44c493f_96cb_4a74_b1f5_511c2bfbaf0e', 'GNOME_SETUP_DISPLAY': ':1', 'XDG_RUNTIME_DIR': '/run/user/1000', 'DISPLAY': ':0', 'LANG': 'es_ES.UTF-8', 'XDG_CURRENT_DESKTOP': 'ubuntu:GNOME', 'LC_TELEPHONE': 'en_US.UTF-8', 'XMODIFIERS': '@im=ibus', 'XDG_SESSION_DESKTOP': 'ubuntu', 'XAUTHORITY': '/run/user/1000/.mutter-Xwaylandauth.QSON62', 'LS_COLORS': 'rs=0:di=01;34:ln=01;36:mh=00:pi=40;33:so=01;35:do=01;35:bd=40;33;01:cd=40;33;01:or=40;31;01:mi=00:su=37;41:sg=30;43:ca=00:tw=30;42:ow=34;42:st=37;44:ex=01;32:*.tar=01;31:*.tgz=01;31:*.arc=01;31:*.arj=01;31:*.taz=01;31:*.lha=01;31:*.lz4=01;31:*.lzh=01;31:*.lzma=01;31:*.tlz=01;31:*.txz=01;31:*.tzo=01;31:*.t7z=01;31:*.zip=01;31:*.z=01;31:*.dz=01;31:*.gz=01;31:*.lrz=01;31:*.lz=01;31:*.lzo=01;31:*.xz=01;31:*.zst=01;31:*.tzst=01;31:*.bz2=01;31:*.bz=01;31:*.tbz=01;31:*.tbz2=01;31:*.tz=01;31:*.deb=01;31:*.rpm=01;31:*.jar=01;31:*.war=01;31:*.ear=01;31:*.sar=01;31:*.rar=01;31:*.alz=01;31:*.ace=01;31:*.zoo=01;31:*.cpio=01;31:*.7z=01;31:*.rz=01;31:*.cab=01;31:*.wim=01;31:*.swm=01;31:*.dwm=01;31:*.esd=01;31:*.avif=01;35:*.jpg=01;35:*.jpeg=01;35:*.mjpg=01;35:*.mjpeg=01;35:*.gif=01;35:*.bmp=01;35:*.pbm=01;35:*.pgm=01;35:*.ppm=01;35:*.tga=01;35:*.xbm=01;35:*.xpm=01;35:*.tif=01;35:*.tiff=01;35:*.png=01;35:*.svg=01;35:*.svgz=01;35:*.mng=01;35:*.pcx=01;35:*.mov=01;35:*.mpg=01;35:*.mpeg=01;35:*.m2v=01;35:*.mkv=01;35:*.webm=01;35:*.webp=01;35:*.ogm=01;35:*.mp4=01;35:*.m4v=01;35:*.mp4v=01;35:*.vob=01;35:*.qt=01;35:*.nuv=01;35:*.wmv=01;35:*.asf=01;35:*.rm=01;35:*.rmvb=01;35:*.flc=01;35:*.avi=01;35:*.fli=01;35:*.flv=01;35:*.gl=01;35:*.dl=01;35:*.xcf=01;35:*.xwd=01;35:*.yuv=01;35:*.cgm=01;35:*.emf=01;35:*.ogv=01;35:*.ogx=01;35:*.aac=00;36:*.au=00;36:*.flac=00;36:*.m4a=00;36:*.mid=00;36:*.midi=00;36:*.mka=00;36:*.mp3=00;36:*.mpc=00;36:*.ogg=00;36:*.ra=00;36:*.wav=00;36:*.oga=00;36:*.opus=00;36:*.spx=00;36:*.xspf=00;36:*~=00;90:*#=00;90:*.bak=00;90:*.crdownload=00;90:*.dpkg-dist=00;90:*.dpkg-new=00;90:*.dpkg-old=00;90:*.dpkg-tmp=00;90:*.old=00;90:*.orig=00;90:*.part=00;90:*.rej=00;90:*.rpmnew=00;90:*.rpmorig=00;90:*.rpmsave=00;90:*.swp=00;90:*.tmp=00;90:*.ucf-dist=00;90:*.ucf-new=00;90:*.ucf-old=00;90:', 'GNOME_TERMINAL_SERVICE': ':1.121', 'SSH_AUTH_SOCK': '/run/user/1000/keyring/ssh', 'AMENT_PREFIX_PATH': '/opt/ros/jazzy', 'SHELL': '/bin/bash', 'LC_NAME': 'en_US.UTF-8', 'QT_ACCESSIBILITY': '1', 'GDMSESSION': 'ubuntu', 'LESSCLOSE': '/usr/bin/lesspipe %s %s', 'LC_MEASUREMENT': 'en_US.UTF-8', 'LC_IDENTIFICATION': 'en_US.UTF-8', 'ROS_AUTOMATIC_DISCOVERY_RANGE': 'SUBNET', 'QT_IM_MODULE': 'ibus', 'PWD': '/home/daniel/ros2_ws_v2/src/ros2_keypress/build/key_comm', 'LC_ALL': 'en_US.UTF-8', 'XDG_CONFIG_DIRS': '/etc/xdg/xdg-ubuntu:/etc/xdg', 'XDG_DATA_DIRS': '/usr/share/ubuntu:/usr/share/gnome:/usr/local/share/:/usr/share/:/var/lib/snapd/desktop', 'PYTHONPATH': '/home/daniel/ros2_ws_v2/src/ros2_keypress/build/key_comm/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/daniel/ros2_ws_v2/src/ros2_keypress/install/key_comm/lib/python3.12/site-packages:/opt/ros/jazzy/lib/python3.12/site-packages', 'LC_NUMERIC': 'en_US.UTF-8', 'LC_PAPER': 'en_US.UTF-8', 'COLCON': '1', 'MEMORY_PRESSURE_WRITE': 'c29tZSAyMDAwMDAgMjAwMDAwMAA=', 'VTE_VERSION': '7600', 'CMAKE_PREFIX_PATH': '/opt/ros/jazzy/opt/gz_sim_vendor:/opt/ros/jazzy/opt/gz_sensors_vendor:/opt/ros/jazzy/opt/gz_physics_vendor:/opt/ros/jazzy/opt/sdformat_vendor:/opt/ros/jazzy/opt/gz_gui_vendor:/opt/ros/jazzy/opt/gz_transport_vendor:/opt/ros/jazzy/opt/gz_rendering_vendor:/opt/ros/jazzy/opt/gz_plugin_vendor:/opt/ros/jazzy/opt/gz_fuel_tools_vendor:/opt/ros/jazzy/opt/gz_msgs_vendor:/opt/ros/jazzy/opt/gz_common_vendor:/opt/ros/jazzy/opt/gz_math_vendor:/opt/ros/jazzy/opt/gz_utils_vendor:/opt/ros/jazzy/opt/gz_tools_vendor:/opt/ros/jazzy/opt/gz_ogre_next_vendor:/opt/ros/jazzy/opt/gz_dartsim_vendor:/opt/ros/jazzy/opt/gz_cmake_vendor'}, 'shell': False}
+[7.569483] (-) TimerEvent: {}
+[7.670192] (-) TimerEvent: {}
+[7.770822] (-) TimerEvent: {}
+[7.871386] (-) TimerEvent: {}
+[7.971916] (-) TimerEvent: {}
+[8.072479] (-) TimerEvent: {}
+[8.168561] (key_comm) StdoutLine: {'line': b'running egg_info\n'}
+[8.169885] (key_comm) StdoutLine: {'line': b'creating ../../build/key_comm/key_comm.egg-info\n'}
+[8.172621] (-) TimerEvent: {}
+[8.212378] (key_comm) StdoutLine: {'line': b'writing ../../build/key_comm/key_comm.egg-info/PKG-INFO\n'}
+[8.213058] (key_comm) StdoutLine: {'line': b'writing dependency_links to ../../build/key_comm/key_comm.egg-info/dependency_links.txt\n'}
+[8.213455] (key_comm) StdoutLine: {'line': b'writing entry points to ../../build/key_comm/key_comm.egg-info/entry_points.txt\n'}
+[8.213907] (key_comm) StdoutLine: {'line': b'writing requirements to ../../build/key_comm/key_comm.egg-info/requires.txt\n'}
+[8.214212] (key_comm) StdoutLine: {'line': b'writing top-level names to ../../build/key_comm/key_comm.egg-info/top_level.txt\n'}
+[8.214533] (key_comm) StdoutLine: {'line': b"writing manifest file '../../build/key_comm/key_comm.egg-info/SOURCES.txt'\n"}
+[8.272817] (-) TimerEvent: {}
+[8.300953] (key_comm) StdoutLine: {'line': b"reading manifest file '../../build/key_comm/key_comm.egg-info/SOURCES.txt'\n"}
+[8.302068] (key_comm) StdoutLine: {'line': b"writing manifest file '../../build/key_comm/key_comm.egg-info/SOURCES.txt'\n"}
+[8.302684] (key_comm) StdoutLine: {'line': b'running build\n'}
+[8.303223] (key_comm) StdoutLine: {'line': b'running build_py\n'}
+[8.303967] (key_comm) StdoutLine: {'line': b'creating /home/daniel/ros2_ws_v2/src/ros2_keypress/build/key_comm/build\n'}
+[8.304272] (key_comm) StdoutLine: {'line': b'creating /home/daniel/ros2_ws_v2/src/ros2_keypress/build/key_comm/build/lib\n'}
+[8.304591] (key_comm) StdoutLine: {'line': b'creating /home/daniel/ros2_ws_v2/src/ros2_keypress/build/key_comm/build/lib/key_comm\n'}
+[8.304877] (key_comm) StdoutLine: {'line': b'copying key_comm/key_publisher.py -> /home/daniel/ros2_ws_v2/src/ros2_keypress/build/key_comm/build/lib/key_comm\n'}
+[8.305156] (key_comm) StdoutLine: {'line': b'copying key_comm/__init__.py -> /home/daniel/ros2_ws_v2/src/ros2_keypress/build/key_comm/build/lib/key_comm\n'}
+[8.305595] (key_comm) StdoutLine: {'line': b'copying key_comm/key_listener.py -> /home/daniel/ros2_ws_v2/src/ros2_keypress/build/key_comm/build/lib/key_comm\n'}
+[8.305893] (key_comm) StdoutLine: {'line': b'running install\n'}
+[8.315451] (key_comm) StdoutLine: {'line': b'running install_lib\n'}
+[8.360598] (key_comm) StdoutLine: {'line': b'creating /home/daniel/ros2_ws_v2/src/ros2_keypress/install/key_comm/lib/python3.12/site-packages/key_comm\n'}
+[8.363719] (key_comm) StdoutLine: {'line': b'copying /home/daniel/ros2_ws_v2/src/ros2_keypress/build/key_comm/build/lib/key_comm/key_publisher.py -> /home/daniel/ros2_ws_v2/src/ros2_keypress/install/key_comm/lib/python3.12/site-packages/key_comm\n'}
+[8.364073] (key_comm) StdoutLine: {'line': b'copying /home/daniel/ros2_ws_v2/src/ros2_keypress/build/key_comm/build/lib/key_comm/__init__.py -> /home/daniel/ros2_ws_v2/src/ros2_keypress/install/key_comm/lib/python3.12/site-packages/key_comm\n'}
+[8.364397] (key_comm) StdoutLine: {'line': b'copying /home/daniel/ros2_ws_v2/src/ros2_keypress/build/key_comm/build/lib/key_comm/key_listener.py -> /home/daniel/ros2_ws_v2/src/ros2_keypress/install/key_comm/lib/python3.12/site-packages/key_comm\n'}
+[8.364708] (key_comm) StdoutLine: {'line': b'byte-compiling /home/daniel/ros2_ws_v2/src/ros2_keypress/install/key_comm/lib/python3.12/site-packages/key_comm/key_publisher.py to key_publisher.cpython-312.pyc\n'}
+[8.364991] (key_comm) StdoutLine: {'line': b'byte-compiling /home/daniel/ros2_ws_v2/src/ros2_keypress/install/key_comm/lib/python3.12/site-packages/key_comm/__init__.py to __init__.cpython-312.pyc\n'}
+[8.365274] (key_comm) StdoutLine: {'line': b'byte-compiling /home/daniel/ros2_ws_v2/src/ros2_keypress/install/key_comm/lib/python3.12/site-packages/key_comm/key_listener.py to key_listener.cpython-312.pyc\n'}
+[8.365622] (key_comm) StdoutLine: {'line': b'running install_data\n'}
+[8.365906] (key_comm) StdoutLine: {'line': b'creating /home/daniel/ros2_ws_v2/src/ros2_keypress/install/key_comm/share/ament_index\n'}
+[8.366184] (key_comm) StdoutLine: {'line': b'creating /home/daniel/ros2_ws_v2/src/ros2_keypress/install/key_comm/share/ament_index/resource_index\n'}
+[8.366524] (key_comm) StdoutLine: {'line': b'creating /home/daniel/ros2_ws_v2/src/ros2_keypress/install/key_comm/share/ament_index/resource_index/packages\n'}
+[8.366809] (key_comm) StdoutLine: {'line': b'copying resource/key_comm -> /home/daniel/ros2_ws_v2/src/ros2_keypress/install/key_comm/share/ament_index/resource_index/packages\n'}
+[8.367087] (key_comm) StdoutLine: {'line': b'copying package.xml -> /home/daniel/ros2_ws_v2/src/ros2_keypress/install/key_comm/share/key_comm\n'}
+[8.367392] (key_comm) StdoutLine: {'line': b'running install_egg_info\n'}
+[8.372910] (-) TimerEvent: {}
+[8.409472] (key_comm) StdoutLine: {'line': b'Copying ../../build/key_comm/key_comm.egg-info to /home/daniel/ros2_ws_v2/src/ros2_keypress/install/key_comm/lib/python3.12/site-packages/key_comm-0.0.0-py3.12.egg-info\n'}
+[8.410868] (key_comm) StdoutLine: {'line': b'running install_scripts\n'}
+[8.473120] (-) TimerEvent: {}
+[8.573722] (-) TimerEvent: {}
+[8.676598] (-) TimerEvent: {}
+[8.681825] (key_comm) StdoutLine: {'line': b'Installing key_listener script to /home/daniel/ros2_ws_v2/src/ros2_keypress/install/key_comm/lib/key_comm\n'}
+[8.683509] (key_comm) StdoutLine: {'line': b'Installing key_publisher script to /home/daniel/ros2_ws_v2/src/ros2_keypress/install/key_comm/lib/key_comm\n'}
+[8.684000] (key_comm) StdoutLine: {'line': b"writing list of installed files to '/home/daniel/ros2_ws_v2/src/ros2_keypress/build/key_comm/install.log'\n"}
+[8.760930] (key_comm) CommandEnded: {'returncode': 0}
+[8.777012] (-) TimerEvent: {}
+[8.877787] (-) TimerEvent: {}
+[8.979736] (-) TimerEvent: {}
+[8.983765] (key_comm) JobEnded: {'identifier': 'key_comm', 'rc': 0}
+[8.986212] (-) EventReactorShutdown: {}

@@ -1,0 +1,22 @@
+[1.696s] Invoking command in '/home/daniel/ros2_ws_v2/src/ros2_keypress/src/key_comm': DEBUGINFOD_URLS=https://debuginfod.ubuntu.com PYTHONPATH=/home/daniel/ros2_ws_v2/src/ros2_keypress/build/key_comm/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/daniel/ros2_ws_v2/src/ros2_keypress/install/key_comm/lib/python3.12/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../build/key_comm build --build-base /home/daniel/ros2_ws_v2/src/ros2_keypress/build/key_comm/build install --record /home/daniel/ros2_ws_v2/src/ros2_keypress/build/key_comm/install.log --single-version-externally-managed install_data
+[2.237s] running egg_info
+[2.279s] writing ../../build/key_comm/key_comm.egg-info/PKG-INFO
+[2.280s] writing dependency_links to ../../build/key_comm/key_comm.egg-info/dependency_links.txt
+[2.281s] writing entry points to ../../build/key_comm/key_comm.egg-info/entry_points.txt
+[2.281s] writing requirements to ../../build/key_comm/key_comm.egg-info/requires.txt
+[2.281s] writing top-level names to ../../build/key_comm/key_comm.egg-info/top_level.txt
+[2.369s] reading manifest file '../../build/key_comm/key_comm.egg-info/SOURCES.txt'
+[2.370s] writing manifest file '../../build/key_comm/key_comm.egg-info/SOURCES.txt'
+[2.371s] running build
+[2.371s] running build_py
+[2.371s] running install
+[2.383s] running install_lib
+[2.428s] running install_data
+[2.428s] running install_egg_info
+[2.474s] removing '/home/daniel/ros2_ws_v2/src/ros2_keypress/install/key_comm/lib/python3.12/site-packages/key_comm-0.0.0-py3.12.egg-info' (and everything under it)
+[2.474s] Copying ../../build/key_comm/key_comm.egg-info to /home/daniel/ros2_ws_v2/src/ros2_keypress/install/key_comm/lib/python3.12/site-packages/key_comm-0.0.0-py3.12.egg-info
+[2.476s] running install_scripts
+[2.747s] Installing key_listener script to /home/daniel/ros2_ws_v2/src/ros2_keypress/install/key_comm/lib/key_comm
+[2.747s] Installing key_publisher script to /home/daniel/ros2_ws_v2/src/ros2_keypress/install/key_comm/lib/key_comm
+[2.748s] writing list of installed files to '/home/daniel/ros2_ws_v2/src/ros2_keypress/build/key_comm/install.log'
+[2.825s] Invoked command in '/home/daniel/ros2_ws_v2/src/ros2_keypress/src/key_comm' returned '0': DEBUGINFOD_URLS=https://debuginfod.ubuntu.com PYTHONPATH=/home/daniel/ros2_ws_v2/src/ros2_keypress/build/key_comm/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/daniel/ros2_ws_v2/src/ros2_keypress/install/key_comm/lib/python3.12/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../build/key_comm build --build-base /home/daniel/ros2_ws_v2/src/ros2_keypress/build/key_comm/build install --record /home/daniel/ros2_ws_v2/src/ros2_keypress/build/key_comm/install.log --single-version-externally-managed install_data

@@ -1,0 +1,39 @@
+running egg_info
+creating ../../build/key_comm/key_comm.egg-info
+writing ../../build/key_comm/key_comm.egg-info/PKG-INFO
+writing dependency_links to ../../build/key_comm/key_comm.egg-info/dependency_links.txt
+writing entry points to ../../build/key_comm/key_comm.egg-info/entry_points.txt
+writing requirements to ../../build/key_comm/key_comm.egg-info/requires.txt
+writing top-level names to ../../build/key_comm/key_comm.egg-info/top_level.txt
+writing manifest file '../../build/key_comm/key_comm.egg-info/SOURCES.txt'
+reading manifest file '../../build/key_comm/key_comm.egg-info/SOURCES.txt'
+writing manifest file '../../build/key_comm/key_comm.egg-info/SOURCES.txt'
+running build
+running build_py
+creating /home/daniel/ros2_ws_v2/src/ros2_keypress/build/key_comm/build
+creating /home/daniel/ros2_ws_v2/src/ros2_keypress/build/key_comm/build/lib
+creating /home/daniel/ros2_ws_v2/src/ros2_keypress/build/key_comm/build/lib/key_comm
+copying key_comm/key_publisher.py -> /home/daniel/ros2_ws_v2/src/ros2_keypress/build/key_comm/build/lib/key_comm
+copying key_comm/__init__.py -> /home/daniel/ros2_ws_v2/src/ros2_keypress/build/key_comm/build/lib/key_comm
+copying key_comm/key_listener.py -> /home/daniel/ros2_ws_v2/src/ros2_keypress/build/key_comm/build/lib/key_comm
+running install
+running install_lib
+creating /home/daniel/ros2_ws_v2/src/ros2_keypress/install/key_comm/lib/python3.12/site-packages/key_comm
+copying /home/daniel/ros2_ws_v2/src/ros2_keypress/build/key_comm/build/lib/key_comm/key_publisher.py -> /home/daniel/ros2_ws_v2/src/ros2_keypress/install/key_comm/lib/python3.12/site-packages/key_comm
+copying /home/daniel/ros2_ws_v2/src/ros2_keypress/build/key_comm/build/lib/key_comm/__init__.py -> /home/daniel/ros2_ws_v2/src/ros2_keypress/install/key_comm/lib/python3.12/site-packages/key_comm
+copying /home/daniel/ros2_ws_v2/src/ros2_keypress/build/key_comm/build/lib/key_comm/key_listener.py -> /home/daniel/ros2_ws_v2/src/ros2_keypress/install/key_comm/lib/python3.12/site-packages/key_comm
+byte-compiling /home/daniel/ros2_ws_v2/src/ros2_keypress/install/key_comm/lib/python3.12/site-packages/key_comm/key_publisher.py to key_publisher.cpython-312.pyc
+byte-compiling /home/daniel/ros2_ws_v2/src/ros2_keypress/install/key_comm/lib/python3.12/site-packages/key_comm/__init__.py to __init__.cpython-312.pyc
+byte-compiling /home/daniel/ros2_ws_v2/src/ros2_keypress/install/key_comm/lib/python3.12/site-packages/key_comm/key_listener.py to key_listener.cpython-312.pyc
+running install_data
+creating /home/daniel/ros2_ws_v2/src/ros2_keypress/install/key_comm/share/ament_index
+creating /home/daniel/ros2_ws_v2/src/ros2_keypress/install/key_comm/share/ament_index/resource_index
+creating /home/daniel/ros2_ws_v2/src/ros2_keypress/install/key_comm/share/ament_index/resource_index/packages
+copying resource/key_comm -> /home/daniel/ros2_ws_v2/src/ros2_keypress/install/key_comm/share/ament_index/resource_index/packages
+copying package.xml -> /home/daniel/ros2_ws_v2/src/ros2_keypress/install/key_comm/share/key_comm
+running install_egg_info
+Copying ../../build/key_comm/key_comm.egg-info to /home/daniel/ros2_ws_v2/src/ros2_keypress/install/key_comm/lib/python3.12/site-packages/key_comm-0.0.0-py3.12.egg-info
+running install_scripts
+Installing key_listener script to /home/daniel/ros2_ws_v2/src/ros2_keypress/install/key_comm/lib/key_comm
+Installing key_publisher script to /home/daniel/ros2_ws_v2/src/ros2_keypress/install/key_comm/lib/key_comm
+writing list of installed files to '/home/daniel/ros2_ws_v2/src/ros2_keypress/build/key_comm/install.log'
