@@ -4,7 +4,7 @@
   <name>key_comm</name>
   <version>0.0.0</version>
   <description>TODO: Package description</description>
-  <maintainer email="daniel@todo.todo">daniel</maintainer>
+  <maintainer email="danielruizu05@gmail.com">daniel</maintainer>
   <license>TODO: License declaration</license>
 
   <test_depend>ament_copyright</test_depend>
